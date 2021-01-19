@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+<a href="https://github.com/JassonCordones"><div><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github logo" width="24"/> ![github profile](https://github.com/JassonCordones) </div></a>
