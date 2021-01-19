@@ -1,3 +1,3 @@
-1. Math
-2. Coding
-3. Computers
+1. Math ➕
+2. Coding 👨‍💻
+3. Computers 💻
